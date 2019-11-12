@@ -1,1 +1,2 @@
 README fajl :))
+update jedan
