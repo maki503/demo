@@ -2,4 +2,4 @@ README fajl :))
 update jedan
 
 ovo cu na novoj grani updates valjda odraditi
-e sad sam stvarno dodala
+e ovo ce bas da napravi problem kad se doda razlicita stvar na isto mesto
